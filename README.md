@@ -32,6 +32,6 @@
 class Mahdy {
 public:
     std::string role = "CS Student - 1st Year";
-    std::vector<std::string> languages = {"C++", "C", "Python", "HTML", "CSS"};
+    std::vector<std::string> languages = {"C++"};
     std::vector<std::string> tools = {"VS Code", "Git", "GitHub"};
 };
