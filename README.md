@@ -11,10 +11,19 @@
 
 </div>
 
-<hr></hr>
+<hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+## 🚀 About Me
+
+- 🎓 First-year Computer Science student  
+- 💻 Passionate about programming and problem solving  
+- 📚 Learning OOP, Data Structures, Algorithms, and SQL Server  
+- 🔥 Interested in Software Development  
+- 🌱 Always improving step by step  
+
+---
+
+## 💡 Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -24,17 +33,31 @@
 
 ---
 
-## 🚀 About Me
+## 📱 Connect With Me
 
-- 🎓 First-year Computer Science student  
-- 💻 Passionate about programming and problem solving  
-- 📚 Currently learning OOP, Data Structures, Algorithms, and SQL Server  
-- 🔥 Interested in software development and building real projects  
-- 🌱 Always improving my coding skills step by step  
+<p align="center">
+
+<a href="mailto:bdalzyzmhdy532@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahdy-abdel-azez-b0707028b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/mahdy">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201104667371">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 💡 My Tech Stack (C++ Style)
+## 💻 Code Style
 
 ```cpp
 #include <iostream>
