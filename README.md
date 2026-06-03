@@ -49,7 +49,6 @@ public:
         "C++",
         "OOP",
         "Data Structures",
-        "Algorithms",
         "SQL Server"
     };
 
