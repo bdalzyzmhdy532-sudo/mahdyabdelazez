@@ -1,84 +1,37 @@
-# Hi there 👋, I'm Mahdy Abdelaziz
+<div align="center" width="50">
 
-<div align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+<h1>Hi, I'm Mahdy Abdelaziz 👋</h1>
+<p>Computer Science Student | Fresh, Passionate, and Ready to Code</p>
 
-### 💻 Computer Science Student | Aspiring Software Developer
-
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </div>
 
----
+<hr></hr>
 
-## 🚀 About Me
-
-* 🎓 First-year Computer Science student.
-* 💻 Passionate about Software Development and Problem Solving.
-* 📚 Currently learning:
-
-  * Object-Oriented Programming (OOP)
-  * Data Structures & Algorithms
-  * SQL & Database Design
-  * C++
-  * C#
-* 🎯 Goal: Become a professional Backend / Software Engineer.
-* 🌱 Always learning and improving every day.
-
----
-
-## 🛠️ Technologies & Tools
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 📚 Currently Learning
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```cpp
-class Mahdy
-{
+// My current tech stack organized in C++ style!
+
+#include <iostream>
+#include <vector>
+#include <string>
+
+class Mahdy {
 public:
-
-    string University = "Computer Science";
-    string Year = "First Year";
-
-    vector<string> Learning = {
-        "OOP",
-        "Data Structures",
-        "Algorithms",
-        "SQL",
-        "C#"
-    };
-
-    string Goal = "Software Engineer";
+    std::string role = "CS Student - 1st Year";
+    std::vector<std::string> languages = {"C++", "C", "Python", "HTML", "CSS"};
+    std::vector<std::string> tools = {"VS Code", "Git", "GitHub"};
 };
-```
-
----
-
-## 🤝 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn here
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-### ⚡ Fun Fact
-
-I enjoy building projects, learning new technologies, and turning ideas into code.
